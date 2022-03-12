@@ -1,4 +1,5 @@
 game.Players:Chat("-gh 5505301521")
+wait(0.9)
 game.Players:Chat("-gh 5593848751")
 wait(0.7)
 
